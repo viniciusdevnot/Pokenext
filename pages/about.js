@@ -7,10 +7,7 @@ export default function About() {
     <div className={styles.about}>
       <h1>Sobre o projeto</h1>
       <p>
-        Lorem, ipsum dolor sit amet consectetur adipisicing elit. In repellat
-        impedit neque et sapiente ipsam laboriosam adipisci illum. Iure
-        voluptate itaque culpa minus ipsa architecto dolorum! Dignissimos
-        recusandae ea aperiam?
+        Projeto realizado no intuito de demonstrar experiencia em consumos de api e detalhar a desenvoltura em SASS
       </p>
       <Image
         src="/images/charizard.png"
