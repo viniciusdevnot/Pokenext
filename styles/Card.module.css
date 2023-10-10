@@ -7,9 +7,9 @@
   margin-bottom: 2em;
   width: 300px;
   border-radius: 1em;
-  border: 2px solid #e33d33;
-  box-shadow: 5px 5px 12px rgba(0, 0, 0, 0.5);
-  background-color: #333;
+  border: 1px solid #000000;
+  box-shadow: 10px 10px 5px rgb(126, 134, 193);
+  background-color: rgb(195, 216, 231);
   color: #fff;
   flex-wrap:wrap;
 }
